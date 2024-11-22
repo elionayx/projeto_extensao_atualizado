@@ -8,6 +8,16 @@ Aqui está o link do documento com todos os registros da construção do Projeto
 
 Link para os documentos: https://docs.google.com/document/d/1EvHy_Vzx0HiQxe83soaTwHUh2tae_kTsKPPA2F2LGKA/edit?usp=sharing
 
+## Problemática
+
+Este portal de notícias serve para informar todas as pessoas interessadas nos acontecimentos atuais no mundo.
+
+## Funcionalidades
+
+1- Realiza login
+
+2- Interação do MENU com outras partes da própria página.
+
 ## Linguagens Utilizadas
 JavaScript, HTML e CSS.
 
