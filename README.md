@@ -19,11 +19,7 @@ GitHub:(Utilizado)
 Figma:(Utilizado) https://www.figma.com/design/Nr3Ry5kUB8amXz3Iv4Z7qs/Site?node-id=0-1&node-type=canvas&t=Q1C7HYrlNxyKVmxN-0
 
 ## Modo de Uso
-Basta baixar os arquivos e abrir o HTML da Página de Login. As informações de acesso se encontra abaixo:
-
-Usuário: admin
-
-Senha: admin
+Basta baixar os arquivos e abrir o HTML da Página de Login. As informações de acesso da página de login, se encontra no arquivo "acesso_login".
 
 ## Equipe
 1. Elionay Costa
